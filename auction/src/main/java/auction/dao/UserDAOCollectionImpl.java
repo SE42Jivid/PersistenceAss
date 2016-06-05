@@ -4,7 +4,7 @@ import auction.domain.User;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-import javax.persistence.EntityExistsException;
+import javax.
 
 public class UserDAOCollectionImpl implements UserDAO {
 
